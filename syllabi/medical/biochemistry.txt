@@ -1,0 +1,204 @@
+DETAILED SYLLABUS FOR THE POST OF ASSISTANT PROFESSOR IN
+ BIOCHEMISTRY IN MEDICAL EDUCATION - DIRECT RECRUITMENT
+
+                                                               TOTAL : 100 MARKS
+
+
+
+
+CELL                                                             (5 MARKS)
+
+Cell structure – organelle, cytoskeleton and biomembranes – structure and function
+Methods of separation and analysis. Water, pH and buffers, Henderson Hasselbach equation,
+buffer system, colloids, laws of mass action, surface tension, osmosis, diffusion.
+
+ENZYMES                                                          (5 MARKS)
+Enzymes – Classification, mechanism of action, factors affecting enzyme activity
+Inhibition and activation of enzyme activity, regulation of enzyme activity,
+isoenzymes, clinical enzymology – diagnostic and therapeutic applications
+
+
+CHEMISTRY METABOLISM AND DISORDERS OF AMINOACIDS & PROTEINS (15 MARKS)
+
+Chemistry of amino acids and proteins – classification of amino acids, physical and chemical
+properties of amino acids.
+Structural organization of proteins. Study of protein structure
+Structure – Function – relationship of proteins
+Special proteins – Plasma proteins, immunoglobulin (techniques of detection,
+separation and quantitation)
+Contractile proteins, structural proteins (collagen, elastin, keratin) and functional proteins
+Glycoprotein – Types, functions and formation
+Hemoglobin: Structure of hemoglobin, different types of Hb – Transport of oxygen, CO2-
+buffering action, Hb variants – hemoglobinopathies and thalassemias, myoglobin.
+Heme synthesis and break down, porphyrias and jaundice.
+Disorders of hemopoietic system, Ferro kinetic studies,         Hemoglobinopathies,
+immunoglobinopathies, porphyrias and their lab diagnosis, Coagulation studies.
+Inborn errors of Aminoacids and protein metabolism.
+Abnormalities in tissue proteins – inherited and protein folding disorders, Prions
+
+
+CHEMISTRY, METABOLISM AND DISORDERS OF CARBOHYDRATE                           (10 MARKS)
+
+Chemistry of carbohydrates – classification and biological importance, chemistry and functions
+of      monosaccharides,        disaccharides,       and       polysaccharides       including
+glycosaminoglycans.
+
+Metabolism of carbohydrates, TCA cycle and biological oxidation (Major and minor
+metabolic pathways – steps, significance, regulation and interrelationships etc)
+
+
+
+CHEMISTRY, METABOLISM AND DISORDERS OF LIPID                              (10 MARKS)
+
+Chemistry of lipids – classification and           biological importance, chemistry and
+functions of triglycerides, phospholipids,         glycolipids, fatty acids, cholesterol,
+lipoproteins and prostaglandins.
+Metabolic profile of different organs – Liver, skeletal muscle, cardiac muscle, brain, kidney,
+erythrocytes, adipose tissue, lens and retina.
+
+Metabolic interrelationships & metabolic alterations in starvation and obesity.
+Ketosis, atherosclerosis, fatty liver, lysosomal storage disorders, dyslipidemias and their
+lab diagnosis.
+Organic acidurias and their laboratory diagnosis.
+
+
+Regulation of glucose levels in body fluids-diabetes mellitus, metabolic alterations,
+complications and biochemical basis of management. Biochemical basis of
+complications in Diabetes mellitus and secondary degenerative changes associated with
+diabetes mellitus. Glycogen Storage diseases, galactosemia, reducing substances in urine and
+aids to laboratory diagnosis of these disorders.
+Inborn errors of Carbohydrate metabolism
+
+BIOSTATISTICS                                                                       (5 MARKS)
+
+
+Basic principles of research methodology – Formulation of research hypothesis, study
+designing, sampling, data analysis and reporting with essential knowledge of statistical
+analysis.
+Population distributions: Populations and samples-Frequency distributions
+Basic distribution statistics: Measures of central tendencies, measures of variation,
+confidence intervals and measures of accuracy and precision
+Parametric comparisons of populations : Null hypothesis and statistical significance, two
+hypothesis, comparison of random variation (precision)-the F test, comparison of means
+(accuracy or bias)-the t test, ANOVA (one way analysis of variance), testing a sample for
+outliers using the gap test
+
+Reference intervals and clinical decision limits: Reference population, reference
+individuals, reference sample group, reference values, reference distribution, reference
+limits, reference intervals, Protocol for obtaining reference values and establishing health
+associated reference intervals, selection of reference intervals, pre analytical and analytical
+variables
+
+Analysis of reference values: Statistical methods, confidence intervals, treatment of outlying
+observations, partitioning of reference values, transference, presentation of reference
+intervals, intra individual reference intervals, ROC curve (receiver operating
+characteristic curve
+
+
+MOLECULAR BIOLOGY AND TECHNIQUES                                                   (20 MARKS)
+
+
+Purines and pyrimidines – their derivatives – nucleosides, nucleotides, nucleic acids.
+
+Metabolism of purines and pyrimidines and disorders
+
+Structure and functions of nucleic acids, organization of DNA in cells
+
+Replication –steps (prokaryotic and eukaryotic), enzymes, fidelity, DNA repair, inhibitors
+Transcription – (prokaryotic and eukaryotic) different types of RNA polymerases, post
+transcriptional modifications, inhibitors
+Translation – (prokaryotic and eukaryotic) Steps, factors involved, post translational
+modifications, inhibitors, protein folding and targeting
+Regulation of gene expression,prokaryotic and eukaryotic Epigenetics
+Cell cycle, cell to cell adhesion, recognition, signaling, growth factors and cytokines
+Apoptosis, Role of mitochondria, mitochondrial DNA, Mitochondrial cytopathies.
+
+Genetic basis of cancer, Oncogenes and oncosuppressor genes, tumour markers
+
+Techniques in molecular biology : Recombinant DNA technology, Southern blotting, RFLP,
+PCR, Genomic library, DNA finger printing, transgenics, gene knock out, stem cell
+biology, RNA interference, Gene targeting, DNA micro array, Gene therapy and vectors.
+
+Molecular methods in prenatal & new born screening, Markers of chromosomal
+aneuploidy in maternal serum (Quad screen) NAT for foetal DNA in maternal
+circulation.
+
+Immunology –Immunity-Antigen, Antibodies – Immunoglobulins, Antigen-Antibody
+             reactions, complement system, Structure and functions of the Immune
+             system, Immune Response, Immunodeficiency diseases, Hypersensitivity,
+             Autoimmunity,
+
+Immunology of Transplantation and Malignancy, Immuno heamatology, Stem cell
+biology and applications
+Basic principles of Bioinformatics
+
+NUTRITION                                                (10 MARKS)
+
+Nutrition – Food composition – general nutritional requirements, energy
+requirements, biological value of proteins, Respiratory quotient, B.M.R., SDA, balanced
+diet, diet formulation in health and disease, mixed diet, nutritional supplements, food
+toxins, additives, parenteral nutrition
+Digestion and absorption of different nutrients.          Disorders of digestion and
+malabsorption syndromes, dietary fibers
+Disorders of nutrition- PEM, obesity, dietary fibers, laboratory diagnosis of
+nutritional disorders and national nutritional programme
+
+Vitamins – Classification, source active forms, metabolic role, deficiency
+manifestations, RDA and hypervitaminosis,antivitamins, assays.
+Minerals: Macro and micro minerals – Source, requirements, biochemical functions, deficiency
+and excess
+
+Biochemistry of free radicals and antioxidants
+Environmental toxicology, metabolism of xenobiotics.
+Muscular contraction, nerve conduction, coagulation of blood
+Inborn errors of metabolism:
+Inborn errors of carbohydrates, lipids, nucleic acids & mineral metabolism.
+CLINICAL BIOCHEMISTRY & BIOCHEMICAL TECHNIQUES                             (10 MARKS)
+
+Chromatography,        electrophoresis,    fluorometry, ultracentrifugation,   colorimetry,
+spectrophotometry,          atomic        absorption, spectrophotometry, mass spectrometry,
+nephelometry, turbidimetry, flame photometry, ISE, immunochemistry Radioactive isotopes
+– their application in clinical diagnosis and biomedical research, measurement of
+radioactivity, tracer techniques, autoradiography, radioimmunoassay (RIA)
+
+Gastric and pancreatic function tests, Malabsorption syndromes and their lab diagnosis.
+Renal function tests, Acute renal failure and Chronic Kidney disease azotemia uremia
+CSF in health and disease
+LFT, jaundice, alcoholic liver disease and NASH (non alcoholic liver disease)
+Clinical enzymology
+
+Lab diagnosis of cardiac dysfunction
+Principles of peritoneal and hemodialysis
+Lab diagnosis of diseases of lungs and musculoskeletal system
+Lab diagnosis of diseases of CNS
+Lab diagnosis of AIDS and cancers and other immunological disorders
+Life style diseases, Metabolic syndrome and laboratory evaluation
+Laboratory evaluation methods of pregnancy related problems                 and   infertility,
+Fetoplacental function tests
+
+Metabolic bone disease and gammopathies - lab diagnosis
+Composition and analysis of calculi – salivary, renal and biliary system
+Automation in clinical chemistry
+Quality control programmes – external and internal QCs and QC methods.
+Point of care testing (POCT)
+
+ENDOCRINOLOGY                                                         (10 MARKS)
+
+Classification and general mechanism of action of hormones.
+Biogenesis, secretion, control, transport and mode of action of following-
+hypothalamic peptides, adenohypophyseal and neurohypophyseal hormones, thyroid
+parathyroid hormones, calcitonin, pancreatic hormones, adenocortical and medullary
+hormones,      gonadal     hormones,      gastrointestinal  hormones,      opioid peptides,
+endorphins, parathormones.
+Biochemistry of ovulation, conception, reproduction and contraception,
+endocrinological change of pregnancy.
+Endocrine interrelationship and their involvement in metabolic regulation.
+Assessment of endocrine function               and laboratory diagnosis of different
+endocrinolpathies
+Neuromodulators and their mechanism of action, physiological significance.
+
+NOTE: - It may be noted that apart from the topics detailed above,
+questions from other topics prescribed for the educational qualification of
+the post may also appear in the question paper. There is no undertaking that
+all the topics above may be covered in the question paper.
+

@@ -1,0 +1,559 @@
+      SYLLABUS FOR ASSISTANT PROFESSOR IN TRANSFUSION MEDICINE
+                      (BLOOD BANK) – (MEDICAL EDUCATION)
+
+                                                                  TOTAL MARKS : 100
+
+ I.       History of Transfusion Medicine (5 Marks)
+      a) Early attempts in blood Transfusion
+      •      Animal to human blood transfusion
+      •      Human to human transfusion
+      b) Major scientific landmarks –
+      •      Discovery of blood groups
+      •      Discovery of anticoagulants, syringes, blood bags, additives solutions
+      c) Impact of world war I & II in the expansion of transfusion service
+      d) Evolution of apheresis technology
+      e) History of Transfusion transmitted disease testing
+      f) Major landmarks in the history of Indian Blood transfusion .service
+      g) Recent trends in the practice of transfusion medicine – cellular adoptive
+         immunotherapy
+II.       Basic Science (5 Marks)
+      a) Physiology and Biochemistry of blood
+      1. Haematopoiesis
+      2. Composition and function of plasma constituents.
+      3. Production, metabolism and morphology of Blood Cells
+      4. Hemoglobin structure and functions, synthesis and degradation
+      5. Abnormalities of hemoglobin in oxygen transportation
+      6. Kinetics and functions of cellular elements of blood (normal and disease state)
+      7. Physiology of haemostasis with regard to role of platelets, coagulation
+         pathways and fibrinolysis
+      8. Hemodynamics of circulation, estimation of blood volume
+      9. Iron metabolism
+      10. Bilirubin metabolism
+      11. Patho-physiology of blood donation.
+      12. Patho-physiology of hemorrhagic shock
+
+                                                                                      1
+       13. Biochemical and hematological alternations during storage.
+       b) Genetics
+       1. Mendelian Laws of Inheritance
+       2. Principles of genetics.
+       3. Immunogenetics and blood groups. (Genetics of the major surface antigens of
+          the formed elements of the blood)
+       4. Applied Genetics.
+       5. Population genetics of blood groups
+       c) Immunology
+       1. Immune response classification, immunoglobulins.
+       2. Mechanism of immune response after immunization and infection.
+       3. Antigens, Antibodies, complement, antihuman globulin test.
+       4. Humoral and Cellular immunity
+       5. Principles of structural and functional evaluation of B cells, T cells, NK cells.
+       6. Principles of antigen antibody reaction and factors affecting these reactions
+       7. Mechanisms of acute inflammation
+       8. Physiology of Immune System
+       9. Hypersensitivity reactions
+       10. Role of hybridoma technology in Immunohematology
+       11. Autoimmunity
+       12. Classification of primary immune deficiency diseases, including defects in
+           humoral immunity, cellular immunity
+III.      Fundamentals of Immunohematology (10 Marks)
+       1. Antigen systems of formed elements of blood (Red cell antigens, Leucocyte
+          antigens, Platelet antigens )
+       2. Biochemical properties and characteristics of blood group antigens and
+          antibodies.
+       3. Clinical and pathological consequences of antibodies to red cells
+       4. Red blood cell production and kinetics
+       5. Red blood cell metabolism
+       6. Naturally occurring and immune antibodies against red cell antigens.
+      7. Techniques for detection of antibodies / complements on red cell membrane
+         and their interpretation.
+      8. Outline of mechanisms of red cell destruction
+      9. Pathophysiology and laboratory features of intravascular and extravascular
+         hemolysis
+      10. Importance of complement activation and antibody mediated red cell
+          destruction
+      11. Platelet production and kinetics
+      12. Platelet immunology & alloimmunization
+      13. General principles & clinical utility of platelet function testing
+      14. Pathophysiology and classification of thrombocytopenia and thrombocytosis
+      15. Management of thrombocytopenia, including the role of transfusion therapy
+      16. Neutrophil production and kinetics: neutropenia & neutrophilia
+      17. Differentiate between immune and nonimmune neutropenia
+      18. Clinical and laboratory features of immune neutropenia.
+      19. Role of drugs in the induction of immune and Nonimmune neutropenia.
+      20. Appropriate management in the care of patients with neutropenia
+      21. Role of granulocyte transfusion
+      22. Transfusion related immunomodulation
+IV.      Blood collection, processing, component preparation
+                                                   (20 Marks)
+a.       Blood donor selection and phlebotomy
+      1. Voluntary blood donation program in India
+      2. Organization of outdoor blood donation camps
+      3. Categories of blood donors
+      4. Criteria for blood donor selection
+      5. Counselling and Care of blood donors (Pre-donation,During-donation, Post-
+         donation)
+      6. Phlebotomy procedure
+      7. Blood containers and its configurations
+      8. Plasticizers
+      9. Anticoagulant and preservative solutions
+
+
+                                                                                      3
+     10. Selection of blood containers
+     11. Patho-physiology of adverse reactions of blood donation
+     12. Whole blood donation Vs apheresis donation
+     13. Prevention and management of adverse reactions of blood donation
+     14. Post donation advice and care
+     15. Donor Hemovigilance
+b.        Blood component preparation
+     1. Various types of blood components
+     2. Preparation and composition of blood components
+     3. Basic steps in component production.
+     4. Methods of preparation of components – sedimentation, Centrifugation,
+        Apheresis
+     5. Functional composition of each component
+     6. Leucodepletion of each component
+     7. Storage conditions and shelf-life of components
+     8. storage lesions for each component
+     9. Labelling of blood components
+     10. Transportation of blood components and Cold chain maintenance
+     11. Quality control standards of each component
+c.        Blood component modifications
+     1.     Irradiation
+     2.     Leucodepletion
+     3.     Volume reduction
+     4.     Pooling of components
+     5.     Washed blood components and their indications.
+     6.     Pathogen Reduction Technology
+     7.     Cryopreservation
+d.        Specialized blood components
+            1.     Stem cells
+            2.     Peripheral blood stem cells
+            3.     Umbilical cord blood stem cells
+        4.    Dendritic cells
+        5.    CAR T cells
+e.   Blood derivatives
+        1.    Difference between a blood component and blood derivative
+        2.    Plasma fractionation – type and procedures
+        3.    Viral inactivation – single donor/pooled units
+        4.    Preparation and production of blood derivatives
+        5.    List of blood derivatives that are prepared commercially.
+        6.    Storage conditions and storage lesions for each derivative with their
+              shelf- life
+        7.    Indication, dosage and administration of each derivative
+        8.    Adverse effects of transfusion that may result from storage- induced
+              change in blood derivatives
+f.   Blood Processing
+        1.    Mandatory tests required for donor blood processing.
+        2.    Indian History of blood donor screening for infectious diseases
+        3.    Potential recipient’s complications if errors occur in donor blood
+              processing.
+        4.    Infectious diseases that can be transmitted through blood
+              transfusion
+        5.    Emerging transfusion transmitted infections
+        6.    Deferral period for various transfusion transmitted infections
+        7.    Window period and residual risk of window period donation
+        8.    Evaluation of testing kits for transfusion transmitted infections (TTI)
+        9.    Principles of TTI testing platforms – ELISA, Chemiluminescence
+              Western Blot, Immunoassays, Nucleic acid Amplification testing,
+              Dot Blot hybridization, and others
+        10.   Implications of reactive test results
+        11.   Donor notification and look back
+        12.   Screening for Autologous donations
+        13.   Testing of donors of human cells, tissues and cellular and tissue
+              based products
+        14.   International Variations in Donor Testing
+
+                                                                                        5
+              15.   Screening of plasma derivatives
+              16.   Diseases for which no screening tests are available
+g.         Autologous donation
+              17.   Definition and classification of autologous donation
+              18.   Basic principles, indications, contra-indications
+              19.   Pre-operative autologous deposit
+              20.   Acute normovolemic hemodilution
+              21.   Intra-operative blood salvage
+              22.   including equipment (cell savers)
+              23.   Post-operative cell salvage
+              24.   Advantages and disadvantages of autologous transfusion
+              25.   Directed donation – indications, advantages, disadvantages
+h.         Bio-safety and waste management
+              1.    Bio-safety levels in health care set up and blood banks
+              2.    Bio-safety measures in blood centre, blood donation camps
+              3.    Waste generation and segregation
+              4.    Biomedical Waste management
+              5.    Sterilization procedures in transfusion technology
+              6.    Needle stick injury
+              7.    Post exposure prophylaxis
+V.         Blood Group serology/Pretransfusion testing (10 Marks)
+     1.       ISBT classification of Blood groups.
+     2.       Clinically significant antigen systems and associated phenotypes
+     3.       Expression of these antigen systems on red cells and other cells in blood
+     4.       Blood groups and disease associations.
+     5.       Serological techniques for blood group antigens and antibodies.
+     6.       Blood group reagents, Polyclonal and Monoclonal.
+     7.       Blood group substances.
+     8.       Function of neutrophil defense against bacterial infection
+     9.       Role of the platelet in hemostasis
+     10.      Function of lymphocyte subpopulations in normal and disease states
+      11.       Pathophysiology and clinical features of disorders caused by abnormalities
+                of cell function or number
+      12. Applied serology.
+      13. Scientific principle for compatibility testing
+      14. Basic procedures for compatibility testing -
+               Patient’s specimen and labeling requirements
+
+               Patient’s request form for blood and or components
+
+               Patient identification requirements
+
+               ABO grouping & Rh typing
+
+               Red cell antibody screening
+
+               Blood component identification requirement
+      15. Techniques for compatibility testing
+               Criteria for selection of an appropriate donor unit
+
+               Emergency and elective techniques.
+
+               Typing and Screening.
+
+               Tube / Micro techniques for cross matching
+
+               Compatibility testing in special circumstances
+
+               Newer methods of cross matching
+      16. Apply immunologic principles of blood cell compatibility to clinical situations
+      17. Identify the clinical situations associated with formation of antibodies to blood
+          cell antigens.
+      18. Correlate the results of laboratory tests with vivo reactions.
+VI.         Clinical Transfusion Service (20 Marks)
+a.          General aspects of transfusion
+      1.        Selection of I.V. set for various components
+      2.        On-line warmers
+      3.        Bed side filtration for leucocyte
+      4.        Flow rate of blood transfusion and duration
+      5.        Proper Handling of blood and component units for transfusion
+      6.        Identification of units with patient before transfusion
+
+
+                                                                                              7
+     7.       Monitoring of transfusion
+     8.       Steps to be taken if patient exhibits adverse reactions
+     9.       Materials to be collected and send for investigation of transfusion reactions
+     10.      Major indications for blood components and derivatives.
+b.         Cardiac Surgery
+     1.       Assessment of blood demand for open heart surgeries
+     2.       Blood and blood component support in cardiac surgery
+     3.       Autologous transfusion in cardiac and vascular surgery
+     4.       Importance of cold agglutinins in cardiac surgery
+     5.       Treatment of symptomatic coagulation abnormalities develop following
+              cardiopulmonary bypass (CPB).
+     6.       Laboratory tests to evaluate bleeding after CPB.
+C.         Emergency medicine (massive transfusion haemorrhagic shock, burns)
+     1.       Define massive transfusion and conditions requiring massive transfusion
+     2.       Construct appropriate orders for compatibility testing in massive
+              transfusion.
+     3.       Identify the correct use of ‘type- specific’ blood
+     4.       Identify the correct use of O-negative or O-positive blood in patients with
+              unknown ABO type.
+     5.       Rationale for use of various components in massive transfusion.
+     6.       Coagulation and metabolic abnormalities in massive transfusion
+     7.       Risks and benefits of blood salvage techniques during massive
+              transfusion.
+     8.       Evaluate the risks and benefits of blood salvage techniques during
+              massive transfusion.
+     9.       Describe fluid losses associated with burns.
+     10.      Describe operative and non operative mechanisms of fluid and protein loss
+              in burn patients.
+d.         General surgical support
+     1.       Construct appropriate preoperative orders for blood.
+     2.       Criteria for evaluating haemostatic safety during anesthesia and surgical
+              intervention
+     3.      Identify appropriate orders for blood and blood components for elective
+             surgical procedure, including the use of type and screen
+     4.      Describe the use of the maximum surgical blood order schedule in
+             preparing preoperative blood orders.
+     5.      Evaluate preoperative transfusion needs.
+     6.      Describe the methods of predicting estimated blood loss
+     7.      Describe the treatment for hypovolemia
+     8.      Correlate for clinical symptoms and measurements of blood loss to
+             determine if transfusion is needed.
+     9.      Causes of inappropriate blood usage and blood wastage.
+     10.     Importance of cold chain maintenance
+     11.     Define the desirable cross match: transfusion ratio.
+e.         Haematology and Oncology
+     1.      Evaluation of Bleeding disorders
+     2.      Importance of bleeding history
+     3.      Coagulopathy of liver disease
+     4.      Pathophysiology of vitamin K deficiency
+     5.      Patho-physiology, diagnosis, clinical features,investigation, management
+     6.      Transfusion support in hemostatic and coagulation disorders
+     7.      Hemophilia A, B, C
+     8.      Von willebrands disease
+     9.      Other clotting factor deficiencies
+     10.     Conventional coagulation tests and viscoelastic coagulation tests
+     11.     International Normalized Ratio derivation and its clinical significance
+     12.     Coagulation concentrates for inherited bleeding disorders
+     13.     Coagulation factor concentrates and pharmacologic therapies for acquired
+             bleeding disorders
+     14.     Patho-physiology, diagnosis, clinical features, investigation, management
+             and transfusion support in hemoglobinopathies –
+             ¯ Thalassemia
+             ¯ Sickle cell anaemia
+             ¯ Other hemoglobinopathies
+
+
+                                                                                         9
+     15.     RBC membrane disorders
+     16.     Qualitative and Quantitative disorders of platelets and their management
+     17.     Disseminated Intravascular Coagulation
+     18.     Classification, pathophysiology, diagnosis and management of anemia¯
+                Iron deficiency anemia
+                ¯      Megaloblastic anemia
+                ¯      Aplastic anemia
+                ¯      Haemolytic anemia including fragmentation syndrome
+                ¯      Anemia of chronic diseases – liver disease, uremia,
+                ¯      Thyroid diseases
+     19.     Choose the appropriate blood support in the treatment of anemia.
+     20.     Identify the special transfusion problems in patients with chronic
+             hypoproliferative anemia.
+     21.     Describe the special transfusion problems in patients with haemolytic
+             anaemia.
+     22.     describe the clinical indications and contraindications for red cell
+             transfusion.
+     23.     Transfusion support for patient with neoplastic disease.
+     24.     Hematologic problems in patients with specific forms of neoplasia.
+     25.     Appropriate use of blood components in the treatment of neoplastic
+             disease
+     26.     Platelet refractoriness in patients with hematological malignancy
+f.         Neonatology and paediatrics
+     1.      Describe the pathophysiology of haemolytic disease of the new born
+             (HDN)
+     2.      Blood group systems associated with HDFN
+     3.      Describe the clinical effects of haemolytic disease in the foetus and new
+             born.
+     4.      Outline the diagnosis and management of HDN
+     5.      Antenatal work up of HDFN (e.g. maternal history, maternal antibody titre,
+             maternal and paternal phenotypes, and amniocentesis).
+     6.      Define the indications, including the rationale, for each form of therapy for
+             HDN (early delivery, plasmapheresis of mother, intrauterine transfusion,
+             phototherapy and exchange transfusion).
+  7.    Calculation of volume of blood required for intrauterine transfusion
+  8.    Describe the selection of blood groups and volume of blood components
+        for exchange transfusion
+  9.    List the possible complications of exchange transfusion
+  10.   Describe the role of Rh immunoprophylaxis (antepartum and postpartum)
+        in the prevention of HDN
+  11.   Methods of estimation of fetomaternal hemorrhage
+  12.   Dosage, timing and route of administration of Rh immunoprophylaxis
+  13.   Compare compatibility testing for neonatal and paediatric/ adults
+        transfusion.
+  14.   Identify the appropriate blood samples for neonatal testing
+  15.   Describe the appropriate compatibility tests for the neonate.
+  16.   Compare the procedure used to select blood for neonate and adult
+        patients.
+  17.   post transfusion risk that may be specific to the neonatal patient.
+  18.   Identify situations in which the neonate is at risk for graft- versus host
+        disease(GVHD)
+  19.   Identify situations in which the neonate is at risk for postransfusion
+        cytomegalovirus (CMV) infection.
+  20.   Pathophysiology, diagnosis and management of neonatal alloimmune
+        thrombocytopenia and neutropenia
+g.Nephrology
+  1.    Illustrate the use and limitations of blood component therapy in renal
+        disease.
+  2.    Describe the use of blood components in end-stage renal disease.
+  3.    Describe the use of blood components in renal transplantation.
+h.Autoimmunity
+  1.    Characterize haemolytic anaemia
+  2.    Differentiate between haemolytic and non haemolytic anemia.
+  3.    Differentiate between immune and nonimmune haemolytic anemia.
+  4.    Classification of autoimmune haemolytic anaemia according to
+        immunologic and clinical criteria.
+  5.    Propose a plan to diagnose and treat warm reactive autoimmune
+        haemolytic anaemia(AIHA).
+
+
+                                                                                     11
+   6.    Describe the pathogenesis of warm reactive AIHA
+   7.    Clinical and laboratory features of warm- reactive AIHA
+   8.    Describe the appropriate therapy for patients with warm- reactive AIHA
+   9.    Identify factors to be considered when transfusion therapy is necessary.
+   10.   Describe the appropriate treatment of or response to cold-reactive
+         autoimmune haemolytic anaemia (AIHA).
+   11.   Describe the pathogenesis of cold-reactive AIHA
+   12.   Outline the clinical and laboratory features of cold-reactive AIHA
+   13.   Describe the process or recognizing and diagnosing cold-reactive AIHA
+   14.   Identify the different syndromes produced by cold-reactive AIHA
+   15.   Identify and distinguish between different types of cold-reactive AIHA
+   16.   Algorithm for the diagnosis and treatment of drug induced immune
+         haemolytic anaemia.
+   17.   Describe the differential diagnosis of drug- induced immune haemolytic
+         anaemia.
+   18.   Identify and distinguish between different mechanisms of drug- induced
+         immune injury.
+   19.   Describe the appropriate treatment for patients with drug- induced
+         haemolytic anaemia.
+   20.   Differentiate between immune and non immune thrombocytopenia.
+   21.   Outline the pathophsiology and clinical features of idiopathic
+         Thrombocytopenic purpura (TTP, also known as autoimmune
+         thrombocytopenic purpura, ATP).
+   22.   Distinguish drug-induced thrombocytopenia form ITP
+   23.   Describe the appropriate management o ITP, including the role of
+         transfusion therapy.
+   24.   Construct a plan to diagnose and treat neutropenia.
+i.Transplantation
+   1. Transfusion practice in Organ transplantation.
+   2. Role of antigen matching and or compatibility in selecting organs or tissues for
+      transplantation.
+   3. Organs and tissues for which ABO compatibility is considered essential.
+   4. Role of the major histocompatibility complex (HLA) in graft survival.
+   5. Bone marrow transplantation – Processing, Harvesting
+       6. Immunohematological problems in ABO mismatched BMT
+       7. Peripheral stem cell transplantation – Donor preparative regimens,
+          Harvesting, Complications, Cryopreservation, Cell counting targets,
+          Engraftment monitoring.
+       8. Donor lymphocyte transfusion
+       9. Umbilical cord blood transplantation – Collection, Processing, Storage
+       10. Transfusion support in specialized conditions – kidney,liver
+       11. Effect of pre-transplant transfusion on graft survival in renal and bone marrow
+           transplantation.
+       12. Adverse effects associated with transfusion of immune compromised
+           recipients
+       13. Graft vs Host reaction
+       14. Irradiation of blood products - Indications, dosage, adverse effects
+       15. Tissue banking
+j.          HLA &Transplant Immunology
+       1.        HLA Biochemistry , tissue distribution, function, nomenclature and
+                 genetics
+       2.        Various HLA typing platforms
+       3.        Other non HLA Histocompatibility determinants
+       4.        Cross matching and detection of HLA antibodies
+       5.        Principles of the mixed lymphocyte culture test
+       6.        Identification of clinical situations in which the mixed lymphocyte test is
+                 used for donor selection
+       7.        The HLA system and transfusion ( Platelet refractoriness, FNHTR, TRALI
+                 etc.)
+       8.        HLA testing and transplantation (Stem cell transplant and solid organ
+                 transplant)
+       9.        Other clinically significant aspects of HLA ( HLA associated diseases)
+VII.        Adverse effects of blood transfusion (10 Marks)
+            1.      Definition and classification of transfusion reactions
+            2.      Etiopathogenesis of transfusion reactions
+            3.      Clinical presentation of transfusion reactions
+            4.      Investigation for transfusion reactions
+
+
+                                                                                               13
+            5.       Management of transfusion reactions
+            6.       Prevention of transfusion reactions
+            7.       Immunological reactions (etiology, pathogenesis,investigation, clinical
+                     outcome, prevention and management)
+                     ¯      Hemolytic transfusion reaction
+                     -      Intravascular reactions (immediate)
+                     -      Extravascular reactions(anamnestic/delayed)
+            8.       Non-hemolytic / febrile transfusion reactions
+            9.       Allergic and Anaphylactic reactions
+            10.      Platelet alloimmunization
+            11.      leucocyte alloimmunization
+            12.      Transfusion associated Graft vs Host reactions
+            13.      Transfusion Related Acute Lung Injury(TRALI)
+            14.      Non-immunological reactions (etiology, pathogenesis,investigation,
+                     clinical outcome,prevention and management)
+VIII.       Apheresis (5 Marks)
+      1.          Basic principles of apheresis technology
+      2.          Technology of apheresis (Manual or Automated)
+      3.          Cell separators – types and principle
+      4.          Indications, risk and benefits of apheresis procedures
+      5.          Donor Hemapheresis (platelets, red cell, granulocytes,plasma)
+      6.          ASFA classification for therapeutic apheresis
+      7.          Indications for therapeutic apheresis and of the appropriate replacement
+                  fluids to be used in various situations.
+      8.          Evaluation and preparation of patients for therapeutic apheresis, including
+                  discussion with the patient of the risks and benefits associated with
+                  apheresis procedures.
+      9.          Evaluating and treating adverse reactions associated with therapeutic
+                  apheresis.
+      10.         Specialized methods for therapeutic apheresis(e.g.,photopheresis and
+                  immunoadsorption columns).
+IX.         Quality Assurance (5 Marks)
+      1. Various regulatory and accrediting agencies.
+2. training, certification, licensing, and competency assessment standards for
+   transfusion laboratory professionals, including medical laboratory technicians.
+3. comprehensive transfusion laboratory safety policy and program.
+4. Documentation in blood centre
+5. Levels of documnentation
+6. quality assurance, quality management, and process improvement principles
+   in laboratory operation and planning.
+7. instrumentation and computerization in a transfusion laboratory
+8. risk management in the transfusion laboratory
+9. Compare and contrast the various means of performing blood utilization
+   reviews.
+10. Explain the logistics required in determining appropriate blood inventory for a
+    geographic region and the process of meeting daily, weekly and monthly
+    collection goals.
+11. elements of current good manufacturing practices as they apply to the
+    collection, processing, and storage of all blood components /products
+12. Total quality management in transfusion service including premises,
+    personnel, instruments / reagents, biosafety and external /internal quality
+    control.
+13. principles of specimen collection (e.g., phlebotomy technique, safety, and
+    specimen tubes) and specimen processing.
+14. sources of preanalytical variation and the role of biological variability in
+    laboratory assessment.
+15. Development of Standard Operating Procedures (SOP) manual
+16. Quality control of
+                   Reagents
+
+                   Blood & Components
+
+                   Testing procedures
+17. Quality assurance
+                   Internal quality assurance (IQA)
+
+                   External quality assurance (EQA)
+18. Servicing and calibration of equipment – log book for equipment
+19. Medical audit
+20. Hospital transfusion committee
+
+                                                                                   15
+      21. Good manufacturing practice (GMP)
+      22. Turnaround time
+      23. ISO certification
+      24. Accreditation
+X.          Indian Blood Transfusion Services (5 Marks)
+      1.       Planning and development of Transfusion Services.
+      2.       Interactions between regional blood centres and hospital based blood
+               services.
+      3.       Organization of Blood Donor services Donor motivation and promoting
+               voluntary blood donation.
+      4.       Organization and functions of blood centre, including quality management
+               programme
+      5.       Organization and function of hospital transfusion services, including issues
+               of appropriateness of transfusion and informed consent.
+      6.       Records and Statistics.
+      7.       Development of forms, labels, records etc.
+      8.       Bio statistics and Health Economics.
+      9.       Inventory management.
+      10.      Medical audits - Blood audits.
+      11.      Accreditation of blood banks
+XI.         Recent Trends (5 Marks)
+     Blood substitutes and hematopoietic agents
+
+     Gene therapy applications to transfusion medicine
+
+     Tissue engineering and regenerative medicine Human tissue allografts
+
+     Chimeric antigen receptor T cells and other immunotherapies
+
+     Disaster Management
+            Preparation strategies
+            Response
+     The Covid 19 Pandemic and Transfusion Medicine
+       NOTE: It may be noted that apart from the topics detailed above, questions
+      from other topics prescribed for the educational qualification of the post
+      may also appear in the question paper. There is no undertaking that all the
+      topics above may be covered in the question paper.
+
