@@ -1,0 +1,2085 @@
+{
+  "schema_version": "1.0",
+  "course": {
+    "id": "psc_cardiology",
+    "title": {
+      "en": "Kerala PSC Assistant Professor — Cardiology"
+    },
+    "audience": "adult",
+    "languages": [
+      "en"
+    ],
+    "exam": {
+      "name": "Kerala PSC Assistant Professor (Cardiology), Medical Education",
+      "date": "2027-06-30",
+      "status": "estimated",
+      "source": "http://www.keralapsc.gov.in/sites/default/files/2025-01/DM%20Cardiology.pdf"
+    }
+  },
+  "topics": [
+    {
+      "id": "cardio.m01.anatomy-physiology",
+      "subject": "module01",
+      "title": {
+        "en": "Applied anatomy, physiology, pharmacology, embryology & pathology"
+      },
+      "order": 1,
+      "freq": 0.3
+    },
+    {
+      "id": "cardio.m01.investigations",
+      "subject": "module01",
+      "title": {
+        "en": "Cardiac investigations (ECG, X-ray, echo, cath, CT/MRI, PET, CAD physiology)"
+      },
+      "order": 2,
+      "freq": 0.5
+    },
+    {
+      "id": "cardio.m01.genetics",
+      "subject": "module01",
+      "title": {
+        "en": "Genetics and gene therapy in CVD"
+      },
+      "order": 3,
+      "freq": 0.2
+    },
+    {
+      "id": "cardio.m02.atherosclerotic",
+      "subject": "module02",
+      "title": {
+        "en": "Atherosclerotic heart disease: ACS and CCS"
+      },
+      "order": 4,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m02.valvular",
+      "subject": "module02",
+      "title": {
+        "en": "Valvular heart disease"
+      },
+      "order": 5,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m02.congenital",
+      "subject": "module02",
+      "title": {
+        "en": "Congenital heart disease: cyanotic and acyanotic"
+      },
+      "order": 6,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m03.heart-failure",
+      "subject": "module03",
+      "title": {
+        "en": "Heart failure: ADHF and CHF"
+      },
+      "order": 7,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m03.hypertension",
+      "subject": "module03",
+      "title": {
+        "en": "Hypertension"
+      },
+      "order": 8,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m03.arrhythmia",
+      "subject": "module03",
+      "title": {
+        "en": "Arrhythmia management and sudden cardiac death"
+      },
+      "order": 9,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m04.cardiomyopathy",
+      "subject": "module04",
+      "title": {
+        "en": "Cardiomyopathy"
+      },
+      "order": 10,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m05.pericardial",
+      "subject": "module05",
+      "title": {
+        "en": "Pericardial diseases"
+      },
+      "order": 11,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m06.endocarditis",
+      "subject": "module06",
+      "title": {
+        "en": "Infective endocarditis"
+      },
+      "order": 12,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m06.prosthetic-valves",
+      "subject": "module06",
+      "title": {
+        "en": "Prosthetic valve disease and percutaneous valve replacement"
+      },
+      "order": 13,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m07.pulmonary-hypertension",
+      "subject": "module07",
+      "title": {
+        "en": "Pulmonary hypertension and PAH"
+      },
+      "order": 14,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m08.stroke",
+      "subject": "module08",
+      "title": {
+        "en": "Stroke and cardiovascular disease"
+      },
+      "order": 15,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m08.atrial-fibrillation",
+      "subject": "module08",
+      "title": {
+        "en": "Atrial fibrillation management"
+      },
+      "order": 16,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m09.noncardiac-surgery",
+      "subject": "module09",
+      "title": {
+        "en": "Cardiac evaluation for non-cardiac surgery and anaesthesia"
+      },
+      "order": 17,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m10.aorta",
+      "subject": "module10",
+      "title": {
+        "en": "Aortic diseases and interventions"
+      },
+      "order": 18,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m10.pad",
+      "subject": "module10",
+      "title": {
+        "en": "Peripheral arterial occlusive disease"
+      },
+      "order": 19,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m10.diabetes-lipids",
+      "subject": "module10",
+      "title": {
+        "en": "Diabetes, dyslipidaemia and CVD"
+      },
+      "order": 20,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m10.pregnancy",
+      "subject": "module10",
+      "title": {
+        "en": "Pregnancy and heart disease"
+      },
+      "order": 21,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    },
+    {
+      "id": "cardio.m10.pulmonary-embolism",
+      "subject": "module10",
+      "title": {
+        "en": "Pulmonary embolism"
+      },
+      "order": 22,
+      "freq": 0.5,
+      "prereq": [
+        "cardio.m01.anatomy-physiology"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "cardio.m01.anatomy-physiology.f01",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Coronary dominance is set by which artery gives the posterior descending artery (PDA). About 70% of people are right-dominant."
+      },
+      "why": {
+        "en": "The PDA supplies the inferior septum, so dominance predicts which occlusion causes an inferior infarct."
+      },
+      "recall_q": {
+        "en": "What decides coronary dominance?"
+      },
+      "recall_a": {
+        "en": "The artery that gives the posterior descending artery."
+      },
+      "explain_simple": {
+        "en": "Follow the PDA back to its parent: RCA means right-dominant, circumflex means left-dominant, both means co-dominant."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.f02",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "The SA nodal artery comes from the RCA in about 60% and the circumflex in about 40%. The AV nodal artery usually comes from the dominant artery."
+      },
+      "why": {
+        "en": "So inferior MI from RCA occlusion often causes sinus bradycardia and AV block."
+      },
+      "recall_q": {
+        "en": "Which artery usually supplies the AV node?"
+      },
+      "recall_a": {
+        "en": "The dominant artery, usually the RCA."
+      },
+      "explain_simple": {
+        "en": "RCA blockage often slows the heart because the RCA usually feeds the AV node."
+      },
+      "example": {
+        "en": "A patient with inferior STEMI develops complete heart block that often resolves after RCA reperfusion."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.f03",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Left ventricular myocardium is perfused mainly in diastole."
+      },
+      "why": {
+        "en": "Systolic contraction compresses intramyocardial vessels; tachycardia shortens diastole and reduces coronary flow."
+      },
+      "recall_q": {
+        "en": "In which phase does the LV receive most coronary flow?"
+      },
+      "recall_a": {
+        "en": "Diastole."
+      },
+      "explain_simple": {
+        "en": "The squeezing ventricle pinches its own arteries, so blood flows in when it relaxes. Faster heart rate means less relaxing time."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.f04",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Frank–Starling law: a larger end-diastolic volume (preload) gives a stronger contraction, up to a limit."
+      },
+      "why": {
+        "en": "Stretch brings actin and myosin to better overlap and raises troponin C calcium sensitivity."
+      },
+      "recall_q": {
+        "en": "What does the Frank–Starling law relate?"
+      },
+      "recall_a": {
+        "en": "Preload (end-diastolic volume) to stroke volume."
+      },
+      "explain_simple": {
+        "en": "More filling stretches the muscle like a rubber band, so it springs back harder, until it is overstretched in failure."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.f05",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "The ductus arteriosus comes from the left sixth aortic arch and closes functionally within the first few days after birth."
+      },
+      "why": {
+        "en": "Rising oxygen and falling prostaglandin E2 after birth constrict it; so PGE1 infusion keeps it open in duct-dependent lesions."
+      },
+      "recall_q": {
+        "en": "Which drug keeps the ductus arteriosus open?"
+      },
+      "recall_a": {
+        "en": "Prostaglandin E1 (alprostadil)."
+      },
+      "explain_simple": {
+        "en": "Before birth prostaglandins hold the duct open. After birth they fall and the duct shuts. Giving PGE1 holds it open again."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.f06",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Digoxin inhibits the Na⁺/K⁺-ATPase, raising intracellular calcium and contractility; it also increases vagal tone, slowing AV conduction."
+      },
+      "why": {
+        "en": "Hypokalaemia increases digoxin toxicity because potassium competes with digoxin at the pump."
+      },
+      "recall_q": {
+        "en": "Which electrolyte disturbance worsens digoxin toxicity?"
+      },
+      "recall_a": {
+        "en": "Hypokalaemia."
+      },
+      "explain_simple": {
+        "en": "Digoxin blocks the sodium pump, so less calcium leaves the cell and the heart squeezes harder. Low potassium lets more digoxin bind."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.f07",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Free-wall rupture after MI is most likely about 3–7 days after infarction."
+      },
+      "why": {
+        "en": "Macrophages are removing necrotic muscle and scar has not formed, so the wall is at its weakest."
+      },
+      "recall_q": {
+        "en": "When is post-MI free-wall rupture most likely?"
+      },
+      "recall_a": {
+        "en": "About 3–7 days after MI."
+      },
+      "explain_simple": {
+        "en": "Dead muscle is cleared before new scar is laid down; in that gap the wall is soft."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.s01",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "steps",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Phases of the cardiac cycle (left heart)"
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Isovolumic contraction: mitral valve closes (S1); all valves shut; LV pressure rises with no volume change."
+          },
+          "explain": {
+            "en": "The ventricle squeezes a closed box, so pressure climbs until it beats aortic pressure."
+          }
+        },
+        {
+          "text": {
+            "en": "Ejection: aortic valve opens when LV pressure exceeds aortic pressure; stroke volume leaves the ventricle."
+          }
+        },
+        {
+          "text": {
+            "en": "Isovolumic relaxation: aortic valve closes (S2); all valves shut; LV pressure falls with no volume change."
+          }
+        },
+        {
+          "text": {
+            "en": "Rapid filling: mitral valve opens when LV pressure drops below LA pressure; most filling happens here."
+          }
+        },
+        {
+          "text": {
+            "en": "Diastasis: slow filling as LA and LV pressures equalise; shortened first when heart rate rises."
+          }
+        },
+        {
+          "text": {
+            "en": "Atrial systole: atrial kick adds the last part of filling (the 'a' wave); lost in atrial fibrillation."
+          }
+        }
+      ],
+      "summary": [
+        {
+          "en": "Two isovolumic phases: all valves closed."
+        },
+        {
+          "en": "S1 = mitral/tricuspid close; S2 = aortic/pulmonary close."
+        },
+        {
+          "en": "Atrial kick is lost in AF."
+        }
+      ],
+      "recall_q": {
+        "en": "Name the six phases of the cardiac cycle in order."
+      },
+      "recall_a": {
+        "en": "Isovolumic contraction, ejection, isovolumic relaxation, rapid filling, diastasis, atrial systole."
+      }
+    },
+    {
+      "id": "cardio.m01.anatomy-physiology.sum",
+      "topic": "cardio.m01.anatomy-physiology",
+      "type": "summary",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 1 (3 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Applied basics — recap"
+      },
+      "points": [
+        {
+          "en": "Dominance = artery giving the PDA; ~70% right-dominant."
+        },
+        {
+          "en": "AV nodal artery usually from RCA: inferior MI causes AV block."
+        },
+        {
+          "en": "LV is perfused in diastole; tachycardia worsens ischaemia."
+        },
+        {
+          "en": "PGE1 keeps the ductus open in duct-dependent lesions."
+        },
+        {
+          "en": "Post-MI free-wall rupture peaks about 3–7 days."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m01.investigations.f01",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 1,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Standard ECG paper runs at 25 mm/s: one small square is 0.04 s, one large square is 0.20 s, and 10 mm equals 1 mV."
+      },
+      "why": {
+        "en": "All intervals and rates are measured by counting squares at this standard speed and gain."
+      },
+      "recall_q": {
+        "en": "How long is one large ECG square at 25 mm/s?"
+      },
+      "recall_a": {
+        "en": "0.20 seconds."
+      },
+      "explain_simple": {
+        "en": "Five small squares make a big square; 5 × 0.04 s = 0.20 s."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f02",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Normal ECG intervals: PR 0.12–0.20 s, QRS under 0.12 s; QT must be corrected for heart rate (QTc)."
+      },
+      "why": {
+        "en": "A long PR means slow AV conduction, a wide QRS means slow ventricular conduction, and a long QTc raises torsades risk."
+      },
+      "recall_q": {
+        "en": "What is the upper limit of a normal PR interval?"
+      },
+      "recall_a": {
+        "en": "0.20 s (one large square)."
+      },
+      "explain_simple": {
+        "en": "PR: three to five small squares. QRS: under three small squares."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f03",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "On a PA chest X-ray, a cardiothoracic ratio above 0.5 suggests cardiomegaly."
+      },
+      "why": {
+        "en": "The AP view magnifies the heart because it lies far from the film, so CTR is judged only on PA films."
+      },
+      "recall_q": {
+        "en": "Why is cardiothoracic ratio not judged on an AP film?"
+      },
+      "recall_a": {
+        "en": "The AP view magnifies the heart."
+      },
+      "explain_simple": {
+        "en": "In a PA film the heart sits close to the detector, so its size is true. In AP it is far away and looks bigger."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f04",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Global longitudinal strain (GLS) on speckle-tracking echo is normally about −20%; a relative fall over 15% from baseline signals subclinical LV dysfunction."
+      },
+      "why": {
+        "en": "GLS falls before ejection fraction, so it detects early damage, for example during cardiotoxic chemotherapy."
+      },
+      "recall_q": {
+        "en": "What GLS change suggests subclinical cardiotoxicity?"
+      },
+      "recall_a": {
+        "en": "A relative fall of more than 15% from baseline."
+      },
+      "explain_simple": {
+        "en": "Strain measures how much the muscle shortens. It weakens before EF drops, so it is an early warning."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f05",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Fractional flow reserve (FFR) ≤0.80 marks a haemodynamically significant coronary stenosis; for iFR the cut-off is ≤0.89."
+      },
+      "why": {
+        "en": "FFR is distal over aortic pressure at maximal hyperaemia, so it shows whether the lesion actually limits flow."
+      },
+      "recall_q": {
+        "en": "What FFR value indicates a significant stenosis?"
+      },
+      "recall_a": {
+        "en": "0.80 or less."
+      },
+      "explain_simple": {
+        "en": "If pressure beyond the narrowing is 80% or less of aortic pressure, the narrowing is limiting flow and stenting helps."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f06",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "On PET, reduced perfusion with preserved FDG uptake (perfusion–metabolism mismatch) indicates hibernating, viable myocardium."
+      },
+      "why": {
+        "en": "Living but under-perfused muscle still uses glucose, so it can recover after revascularisation."
+      },
+      "recall_q": {
+        "en": "What PET pattern indicates hibernating myocardium?"
+      },
+      "recall_a": {
+        "en": "Perfusion–metabolism (FDG) mismatch."
+      },
+      "explain_simple": {
+        "en": "Low blood flow but still eating glucose means the muscle is alive and asleep, not dead."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f07",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "On cardiac MRI, late gadolinium enhancement over 50% of wall thickness predicts little chance of recovery after revascularisation."
+      },
+      "why": {
+        "en": "Gadolinium collects in scar; the more transmural the scar, the less living muscle remains."
+      },
+      "recall_q": {
+        "en": "What LGE transmurality predicts poor recovery?"
+      },
+      "recall_a": {
+        "en": "More than 50% of wall thickness."
+      },
+      "explain_simple": {
+        "en": "Bright areas on late MRI are scar. If scar fills over half the wall, opening the artery helps little."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.f08",
+      "topic": "cardio.m01.investigations",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "In pulmonary artery wedge pressure (PAWP) measurement, the wedged catheter estimates left atrial pressure."
+      },
+      "why": {
+        "en": "With flow stopped by the balloon, the static column links the catheter tip to the left atrium."
+      },
+      "recall_q": {
+        "en": "What does pulmonary artery wedge pressure estimate?"
+      },
+      "recall_a": {
+        "en": "Left atrial pressure."
+      },
+      "explain_simple": {
+        "en": "Blocking a small lung artery lets the catheter 'see' through the lung vessels to the left atrium."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.m01",
+      "topic": "cardio.m01.investigations",
+      "type": "math",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "exam_q": {
+        "en": "A man exercises 7 minutes on the Bruce protocol with 2 mm ST depression and non-limiting angina. Calculate his Duke treadmill score and risk group."
+      },
+      "exam_note": {
+        "en": "A question like this can come in the exam."
+      },
+      "split": {
+        "given": {
+          "en": "Exercise time 7 min, ST deviation 2 mm, angina index 1 (non-limiting)."
+        },
+        "find": {
+          "en": "Duke treadmill score and risk category."
+        },
+        "idea": {
+          "en": "DTS = time − 5 × ST deviation − 4 × angina index."
+        }
+      },
+      "theory": {
+        "en": "Duke score = minutes − 5×(max ST deviation, mm) − 4×(angina index: 0 none, 1 non-limiting, 2 limiting). ≥+5 low risk; −10 to +4 intermediate; ≤−11 high risk."
+      },
+      "steps": [
+        {
+          "work": {
+            "en": "Time term: 7"
+          },
+          "why": {
+            "en": "Exercise duration in minutes on the Bruce protocol."
+          }
+        },
+        {
+          "work": {
+            "en": "ST term: 5 × 2 = 10"
+          },
+          "why": {
+            "en": "Each mm of ST deviation is weighted by 5."
+          }
+        },
+        {
+          "work": {
+            "en": "Angina term: 4 × 1 = 4"
+          },
+          "why": {
+            "en": "Non-limiting angina has index 1."
+          }
+        },
+        {
+          "work": {
+            "en": "DTS = 7 − 10 − 4 = −7"
+          },
+          "why": {
+            "en": "Subtract both penalty terms from time."
+          }
+        },
+        {
+          "work": {
+            "en": "−7 lies between −10 and +4: intermediate risk."
+          },
+          "why": {
+            "en": "Use the standard Duke risk bands."
+          }
+        }
+      ],
+      "answer": {
+        "en": "Duke treadmill score −7: intermediate risk."
+      },
+      "practice": [
+        {
+          "q": {
+            "en": "Exercise 10 min, 1 mm ST depression, no angina. Score and risk?"
+          },
+          "steps": [
+            {
+              "en": "10 − 5×1 − 4×0"
+            },
+            {
+              "en": "= 5"
+            }
+          ],
+          "answer": {
+            "en": "+5: low risk."
+          }
+        },
+        {
+          "q": {
+            "en": "Exercise 3 min, 3 mm ST depression, test-limiting angina. Score and risk?"
+          },
+          "steps": [
+            {
+              "en": "3 − 5×3 − 4×2"
+            },
+            {
+              "en": "= 3 − 15 − 8 = −20"
+            }
+          ],
+          "answer": {
+            "en": "−20: high risk."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cardio.m01.investigations.m02",
+      "topic": "cardio.m01.investigations",
+      "type": "math",
+      "difficulty": 1,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "exam_q": {
+        "en": "On a regular ECG at 25 mm/s, the R–R interval is 4 large squares. What is the heart rate?"
+      },
+      "exam_note": {
+        "en": "A question like this can come in the exam."
+      },
+      "split": {
+        "given": {
+          "en": "Regular rhythm, R–R = 4 large squares, paper speed 25 mm/s."
+        },
+        "find": {
+          "en": "Heart rate in beats per minute."
+        },
+        "idea": {
+          "en": "300 large squares pass in one minute."
+        }
+      },
+      "theory": {
+        "en": "At 25 mm/s, rate = 300 ÷ large squares between R waves, or 1500 ÷ small squares. For irregular rhythms, count QRS in 10 s and multiply by 6."
+      },
+      "steps": [
+        {
+          "work": {
+            "en": "Rate = 300 ÷ 4"
+          },
+          "why": {
+            "en": "One minute is 300 large squares (60 s ÷ 0.2 s)."
+          }
+        },
+        {
+          "work": {
+            "en": "= 75 beats/min"
+          },
+          "why": {
+            "en": "Simple division."
+          }
+        }
+      ],
+      "answer": {
+        "en": "75 beats per minute."
+      },
+      "practice": [
+        {
+          "q": {
+            "en": "R–R interval is 15 small squares. Heart rate?"
+          },
+          "steps": [
+            {
+              "en": "1500 ÷ 15"
+            }
+          ],
+          "answer": {
+            "en": "100 beats/min."
+          }
+        },
+        {
+          "q": {
+            "en": "Irregular rhythm with 13 QRS complexes on a 10-second strip. Heart rate?"
+          },
+          "steps": [
+            {
+              "en": "13 × 6"
+            }
+          ],
+          "answer": {
+            "en": "About 78 beats/min."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cardio.m01.investigations.s01",
+      "topic": "cardio.m01.investigations",
+      "type": "steps",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Reading a 12-lead ECG systematically"
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Check calibration (10 mm/mV) and speed (25 mm/s); confirm patient details."
+          }
+        },
+        {
+          "text": {
+            "en": "Rate: 300 ÷ large squares between R waves, or count QRS in 10 s × 6 if irregular."
+          }
+        },
+        {
+          "text": {
+            "en": "Rhythm: is every QRS preceded by a P wave, and is R–R regular?"
+          }
+        },
+        {
+          "text": {
+            "en": "Axis: leads I and aVF; normal is about −30° to +90°."
+          },
+          "explain": {
+            "en": "Both positive means normal axis. Lead I positive, aVF negative: check lead II for left axis deviation."
+          }
+        },
+        {
+          "text": {
+            "en": "Intervals: PR 0.12–0.20 s, QRS under 0.12 s, QTc for rate."
+          }
+        },
+        {
+          "text": {
+            "en": "P wave and QRS morphology: atrial enlargement, bundle branch block, hypertrophy, Q waves."
+          }
+        },
+        {
+          "text": {
+            "en": "ST segments and T waves: elevation, depression, inversion — map them to a coronary territory."
+          }
+        }
+      ],
+      "summary": [
+        {
+          "en": "Rate, rhythm, axis, intervals, morphology, ST–T."
+        },
+        {
+          "en": "Never skip calibration and speed."
+        },
+        {
+          "en": "Map ST changes to coronary territories."
+        }
+      ],
+      "recall_q": {
+        "en": "List the order of a systematic ECG read."
+      },
+      "recall_a": {
+        "en": "Calibration, rate, rhythm, axis, intervals, P/QRS morphology, ST–T."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.d01",
+      "topic": "cardio.m01.investigations",
+      "type": "diagram",
+      "difficulty": 1,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "A normal ECG complex"
+      },
+      "canvas": {
+        "w": 300,
+        "h": 150
+      },
+      "steps": [
+        {
+          "say": {
+            "en": "Draw a flat baseline: this is the isoelectric line."
+          },
+          "paths": [
+            "M10 100 H40"
+          ]
+        },
+        {
+          "say": {
+            "en": "Add a small rounded P wave: atrial depolarisation."
+          },
+          "paths": [
+            "M40 100 Q55 82 70 100"
+          ]
+        },
+        {
+          "say": {
+            "en": "A short flat PR segment, then a small dip (Q), a tall spike (R) and a dip below (S)."
+          },
+          "paths": [
+            "M70 100 H85 L90 108 L100 30 L110 115 L115 100"
+          ]
+        },
+        {
+          "say": {
+            "en": "Flat ST segment, then a broad rounded T wave: ventricular repolarisation."
+          },
+          "paths": [
+            "M115 100 H140 Q160 68 180 100 H290"
+          ]
+        },
+        {
+          "say": {
+            "en": "Label the waves."
+          },
+          "labels": [
+            {
+              "text": {
+                "en": "P"
+              },
+              "x": 55,
+              "y": 76
+            },
+            {
+              "text": {
+                "en": "Q"
+              },
+              "x": 84,
+              "y": 122
+            },
+            {
+              "text": {
+                "en": "R"
+              },
+              "x": 100,
+              "y": 22
+            },
+            {
+              "text": {
+                "en": "S"
+              },
+              "x": 112,
+              "y": 132
+            },
+            {
+              "text": {
+                "en": "T"
+              },
+              "x": 160,
+              "y": 60
+            }
+          ]
+        }
+      ],
+      "key_parts": [
+        {
+          "en": "Isoelectric baseline"
+        },
+        {
+          "en": "P wave"
+        },
+        {
+          "en": "QRS complex"
+        },
+        {
+          "en": "ST segment"
+        },
+        {
+          "en": "T wave"
+        }
+      ],
+      "recall_prompt": {
+        "en": "Draw a normal ECG complex from memory and label P, Q, R, S and T."
+      }
+    },
+    {
+      "id": "cardio.m01.investigations.sum",
+      "topic": "cardio.m01.investigations",
+      "type": "summary",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 2 (5 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Cardiac investigations — recap"
+      },
+      "points": [
+        {
+          "en": "ECG: small square 0.04 s, large 0.20 s at 25 mm/s."
+        },
+        {
+          "en": "CTR above 0.5 on PA film suggests cardiomegaly."
+        },
+        {
+          "en": "GLS relative fall over 15% = subclinical LV dysfunction."
+        },
+        {
+          "en": "FFR ≤0.80 (iFR ≤0.89) = significant stenosis."
+        },
+        {
+          "en": "PET mismatch = hibernating; LGE over 50% = poor recovery."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m01.genetics.f01",
+      "topic": "cardio.m01.genetics",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 3 (2 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Hypertrophic cardiomyopathy is usually autosomal dominant, caused by sarcomere gene variants; MYH7 and MYBPC3 are the commonest."
+      },
+      "why": {
+        "en": "Faulty sarcomere proteins make the muscle hypercontractile and disorganised, so it thickens."
+      },
+      "recall_q": {
+        "en": "Which two genes most often cause HCM?"
+      },
+      "recall_a": {
+        "en": "MYH7 and MYBPC3."
+      },
+      "explain_simple": {
+        "en": "HCM is a disease of the muscle's motor proteins; the two big culprits code for beta-myosin heavy chain and myosin-binding protein C."
+      }
+    },
+    {
+      "id": "cardio.m01.genetics.f02",
+      "topic": "cardio.m01.genetics",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 3 (2 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Familial hypercholesterolaemia is autosomal dominant, most often from LDLR variants (also APOB, PCSK9); heterozygotes are about 1 in 250."
+      },
+      "why": {
+        "en": "Fewer working LDL receptors means LDL is cleared slowly, so LDL-C is high from birth."
+      },
+      "recall_q": {
+        "en": "Which gene is most commonly mutated in familial hypercholesterolaemia?"
+      },
+      "recall_a": {
+        "en": "LDLR (LDL receptor)."
+      },
+      "explain_simple": {
+        "en": "The liver's LDL 'doors' are broken, so LDL piles up in blood from childhood."
+      }
+    },
+    {
+      "id": "cardio.m01.genetics.f03",
+      "topic": "cardio.m01.genetics",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 3 (2 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Long QT triggers by genotype: LQT1 (KCNQ1) exercise or swimming; LQT2 (KCNH2) sudden noise or emotion; LQT3 (SCN5A) sleep or rest."
+      },
+      "why": {
+        "en": "Each gene affects a different ion current, so a different situation tips the patient into torsades."
+      },
+      "recall_q": {
+        "en": "Which long QT type is triggered by swimming?"
+      },
+      "recall_a": {
+        "en": "LQT1 (KCNQ1)."
+      },
+      "explain_simple": {
+        "en": "Think 1-2-3: Exercise, Emotion/noise, rest/sleep."
+      }
+    },
+    {
+      "id": "cardio.m01.genetics.f04",
+      "topic": "cardio.m01.genetics",
+      "type": "fact",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 3 (2 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Marfan syndrome is caused by FBN1 (fibrillin-1) variants; aortic root dilatation and dissection are the main cardiac risks."
+      },
+      "why": {
+        "en": "Defective fibrillin weakens elastic fibres and increases TGF-β signalling in the aortic wall."
+      },
+      "recall_q": {
+        "en": "Which gene is mutated in Marfan syndrome?"
+      },
+      "recall_a": {
+        "en": "FBN1 (fibrillin-1)."
+      },
+      "explain_simple": {
+        "en": "Fibrillin is the scaffold of elastic tissue; when it is faulty the aortic root stretches."
+      }
+    },
+    {
+      "id": "cardio.m01.genetics.f05",
+      "topic": "cardio.m01.genetics",
+      "type": "fact",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 3 (2 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "learn": {
+        "en": "Inclisiran is a small interfering RNA that silences hepatic PCSK9 synthesis, lowering LDL-C with twice-yearly dosing after loading."
+      },
+      "why": {
+        "en": "Less PCSK9 means fewer LDL receptors are destroyed, so the liver clears more LDL."
+      },
+      "recall_q": {
+        "en": "How does inclisiran lower LDL?"
+      },
+      "recall_a": {
+        "en": "siRNA silencing of PCSK9 production in the liver."
+      },
+      "explain_simple": {
+        "en": "Antibodies mop up PCSK9 in blood; inclisiran stops the liver making it in the first place."
+      }
+    },
+    {
+      "id": "cardio.m01.genetics.sum",
+      "topic": "cardio.m01.genetics",
+      "type": "summary",
+      "difficulty": 2,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 1 item 3 (2 marks); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Genetics in CVD — recap"
+      },
+      "points": [
+        {
+          "en": "HCM: autosomal dominant; MYH7 and MYBPC3."
+        },
+        {
+          "en": "FH: LDLR commonest; heterozygous about 1 in 250."
+        },
+        {
+          "en": "LQT1 exercise, LQT2 emotion/noise, LQT3 sleep."
+        },
+        {
+          "en": "Marfan: FBN1; watch aortic root."
+        },
+        {
+          "en": "Inclisiran: siRNA against PCSK9."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m02.atherosclerotic.sum",
+      "topic": "cardio.m02.atherosclerotic",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 2 (i); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "ACS and CCS — key points"
+      },
+      "points": [
+        {
+          "en": "STEMI: primary PCI preferred if achievable within 120 min of diagnosis."
+        },
+        {
+          "en": "NSTE-ACS: use high-sensitivity troponin 0/1-hour algorithm."
+        },
+        {
+          "en": "DAPT usually 12 months after ACS unless high bleeding risk."
+        },
+        {
+          "en": "High-intensity statin for all; ESC LDL-C goal under 55 mg/dL."
+        },
+        {
+          "en": "CCS: anti-anginals plus risk control; revascularise refractory or high-risk anatomy."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m02.valvular.sum",
+      "topic": "cardio.m02.valvular",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 2 (ii); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Valvular heart disease — key points"
+      },
+      "points": [
+        {
+          "en": "Severe AS: AVA under 1.0 cm², mean gradient ≥40 mmHg, Vmax ≥4 m/s."
+        },
+        {
+          "en": "Symptomatic severe AS needs valve replacement (SAVR or TAVI)."
+        },
+        {
+          "en": "Significant MS: valve area ≤1.5 cm²."
+        },
+        {
+          "en": "PTMC needs favourable anatomy, no LA thrombus, at most mild MR."
+        },
+        {
+          "en": "Rheumatic disease remains a major cause of MS in India."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m02.congenital.sum",
+      "topic": "cardio.m02.congenital",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 2 (iii); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Congenital heart disease — key points"
+      },
+      "points": [
+        {
+          "en": "VSD is the commonest congenital heart defect."
+        },
+        {
+          "en": "Tetralogy of Fallot is the commonest cyanotic lesion after infancy."
+        },
+        {
+          "en": "TGA is the commonest cyanotic lesion presenting in newborns."
+        },
+        {
+          "en": "Eisenmenger: shunt reverses as pulmonary vascular disease develops."
+        },
+        {
+          "en": "Duct-dependent lesions: start prostaglandin E1 at once."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m03.heart-failure.sum",
+      "topic": "cardio.m03.heart-failure",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 3 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Heart failure — key points"
+      },
+      "points": [
+        {
+          "en": "HFrEF ≤40%, HFmrEF 41–49%, HFpEF ≥50% ejection fraction."
+        },
+        {
+          "en": "HFrEF pillars: ARNI/ACEi/ARB, beta-blocker, MRA, SGLT2 inhibitor."
+        },
+        {
+          "en": "ADHF profiles: warm/cold perfusion and wet/dry congestion."
+        },
+        {
+          "en": "IV loop diuretic is first-line for congestion in ADHF."
+        },
+        {
+          "en": "SGLT2 inhibitors also benefit HFmrEF and HFpEF."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m03.hypertension.sum",
+      "topic": "cardio.m03.hypertension",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 3 (b); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Hypertension — key points"
+      },
+      "points": [
+        {
+          "en": "ESC/ISH: hypertension is office BP ≥140/90 mmHg."
+        },
+        {
+          "en": "First-line: ACEi/ARB, calcium channel blocker, thiazide-like diuretic."
+        },
+        {
+          "en": "Prefer single-pill combinations to improve adherence."
+        },
+        {
+          "en": "Resistant: uncontrolled on three drugs incl. diuretic; add spironolactone."
+        },
+        {
+          "en": "Screen for primary aldosteronism, renal artery stenosis, sleep apnoea."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m03.arrhythmia.sum",
+      "topic": "cardio.m03.arrhythmia",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 3 (c); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Arrhythmias and SCD — key points"
+      },
+      "points": [
+        {
+          "en": "Vaughan Williams: I Na, II beta, III K, IV Ca channel."
+        },
+        {
+          "en": "Secondary-prevention ICD after VF or unstable VT without reversible cause."
+        },
+        {
+          "en": "Primary-prevention ICD: LVEF ≤35% after ≥3 months optimal therapy, NYHA II–III."
+        },
+        {
+          "en": "Ablation is curative for AVNRT, accessory pathways and typical flutter."
+        },
+        {
+          "en": "Unstable tachyarrhythmia: synchronised DC cardioversion."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m04.cardiomyopathy.sum",
+      "topic": "cardio.m04.cardiomyopathy",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 4 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Cardiomyopathy — key points"
+      },
+      "points": [
+        {
+          "en": "HCM: unexplained LV wall ≥15 mm; LVOT obstruction if gradient ≥30 mmHg."
+        },
+        {
+          "en": "Obstructive HCM: beta-blocker first; avoid vasodilators and dehydration; mavacamten option."
+        },
+        {
+          "en": "DCM: dilated LV with systolic dysfunction; treat as HFrEF."
+        },
+        {
+          "en": "ARVC: fibrofatty RV replacement; epsilon wave on ECG."
+        },
+        {
+          "en": "ATTR amyloid: diagnose with bone scintigraphy; treat with tafamidis."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m05.pericardial.sum",
+      "topic": "cardio.m05.pericardial",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 5 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Pericardial disease — key points"
+      },
+      "points": [
+        {
+          "en": "Acute pericarditis: 2 of chest pain, rub, ECG changes, effusion."
+        },
+        {
+          "en": "Treat with NSAID or aspirin plus colchicine to cut recurrence."
+        },
+        {
+          "en": "Tamponade: Beck's triad and pulsus paradoxus over 10 mmHg."
+        },
+        {
+          "en": "Constriction: Kussmaul sign, pericardial knock, ventricular interdependence."
+        },
+        {
+          "en": "Tuberculosis is a major cause of pericardial disease in India."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m06.endocarditis.sum",
+      "topic": "cardio.m06.endocarditis",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 6 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Infective endocarditis — key points"
+      },
+      "points": [
+        {
+          "en": "Diagnose with modified Duke criteria (2023 Duke-ISCVID update)."
+        },
+        {
+          "en": "Staphylococcus aureus is the commonest organism overall."
+        },
+        {
+          "en": "Take three blood culture sets before antibiotics."
+        },
+        {
+          "en": "Surgery for heart failure, uncontrolled infection, or high embolic risk."
+        },
+        {
+          "en": "Prophylaxis only for high-risk patients before gingival dental procedures."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m06.prosthetic-valves.sum",
+      "topic": "cardio.m06.prosthetic-valves",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 6 (b); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Prosthetic valves and percutaneous therapy — key points"
+      },
+      "points": [
+        {
+          "en": "Mechanical valves need lifelong warfarin; DOACs are contraindicated."
+        },
+        {
+          "en": "Typical INR target: 2.5 mechanical aortic, 3.0 mechanical mitral."
+        },
+        {
+          "en": "Bioprosthetic valves degenerate; valve-in-valve TAVI is an option."
+        },
+        {
+          "en": "TAVI is favoured in older patients with severe AS."
+        },
+        {
+          "en": "TEER treats selected severe mitral regurgitation."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m07.pulmonary-hypertension.sum",
+      "topic": "cardio.m07.pulmonary-hypertension",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 7 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Pulmonary hypertension — key points"
+      },
+      "points": [
+        {
+          "en": "PH: mean PAP over 20 mmHg at rest (ESC/ERS 2022)."
+        },
+        {
+          "en": "Pre-capillary PH: PAWP ≤15 mmHg and PVR over 2 Wood units."
+        },
+        {
+          "en": "Group 2 (left heart disease) is the commonest group."
+        },
+        {
+          "en": "Most PAH: start ERA plus PDE5 inhibitor together."
+        },
+        {
+          "en": "Positive vasoreactivity test (IPAH): high-dose calcium channel blocker."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m08.stroke.sum",
+      "topic": "cardio.m08.stroke",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 8 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Stroke and the heart — key points"
+      },
+      "points": [
+        {
+          "en": "AF is a leading cause of cardioembolic stroke."
+        },
+        {
+          "en": "IV thrombolysis within 4.5 hours of onset in eligible patients."
+        },
+        {
+          "en": "Thrombectomy for large-vessel occlusion, selected patients up to 24 hours."
+        },
+        {
+          "en": "Symptomatic carotid stenosis ≥70%: endarterectomy."
+        },
+        {
+          "en": "PFO closure for selected patients ≤60 with cryptogenic stroke."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m08.atrial-fibrillation.sum",
+      "topic": "cardio.m08.atrial-fibrillation",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 8 (b); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Atrial fibrillation — key points"
+      },
+      "points": [
+        {
+          "en": "Stroke risk by CHA₂DS₂-VASc (ESC 2024 uses CHA₂DS₂-VA)."
+        },
+        {
+          "en": "DOACs preferred except mechanical valves or moderate–severe MS."
+        },
+        {
+          "en": "Rate control: beta-blocker, diltiazem/verapamil, or digoxin."
+        },
+        {
+          "en": "Early rhythm control reduced CV events (EAST-AFNET 4)."
+        },
+        {
+          "en": "Catheter ablation (PVI) for symptomatic AF; benefits selected HFrEF."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m09.noncardiac-surgery.sum",
+      "topic": "cardio.m09.noncardiac-surgery",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 9 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Non-cardiac surgery — key points"
+      },
+      "points": [
+        {
+          "en": "Good functional capacity (≥4 METs) usually allows surgery without testing."
+        },
+        {
+          "en": "Revised Cardiac Risk Index estimates perioperative cardiac risk."
+        },
+        {
+          "en": "Continue existing beta-blockers; do not start high-dose just before surgery."
+        },
+        {
+          "en": "Defer elective surgery about 6 months after elective PCI, 12 after ACS."
+        },
+        {
+          "en": "Measure troponin or BNP in higher-risk patients."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m10.aorta.sum",
+      "topic": "cardio.m10.aorta",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 10 (a); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Aortic disease — key points"
+      },
+      "points": [
+        {
+          "en": "Repair AAA at ≥5.5 cm in men, ≥5.0 cm in women, or fast growth."
+        },
+        {
+          "en": "Stanford type A dissection: emergency surgery."
+        },
+        {
+          "en": "Uncomplicated type B: medical therapy; TEVAR if complicated."
+        },
+        {
+          "en": "Acute dissection: heart rate under 60, systolic 100–120 mmHg."
+        },
+        {
+          "en": "Marfan: elective root replacement at about 5.0 cm."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m10.pad.sum",
+      "topic": "cardio.m10.pad",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 10 (b); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Peripheral arterial disease — key points"
+      },
+      "points": [
+        {
+          "en": "ABI ≤0.90 diagnoses PAD; over 1.40 means non-compressible arteries."
+        },
+        {
+          "en": "All patients: antiplatelet therapy and statin."
+        },
+        {
+          "en": "Low-dose rivaroxaban plus aspirin reduces events (COMPASS, VOYAGER-PAD)."
+        },
+        {
+          "en": "Claudication: supervised exercise; cilostazol (avoid in heart failure)."
+        },
+        {
+          "en": "Chronic limb-threatening ischaemia needs revascularisation."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m10.diabetes-lipids.sum",
+      "topic": "cardio.m10.diabetes-lipids",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 10 (c); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Diabetes, lipids and CVD — key points"
+      },
+      "points": [
+        {
+          "en": "T2DM with ASCVD: SGLT2 inhibitor or GLP-1 RA with proven CV benefit."
+        },
+        {
+          "en": "Very high risk: LDL-C under 55 mg/dL and ≥50% reduction (ESC)."
+        },
+        {
+          "en": "Statin first, then ezetimibe, then PCSK9 inhibitor."
+        },
+        {
+          "en": "Measure lipoprotein(a) at least once in adulthood."
+        },
+        {
+          "en": "Icosapent ethyl lowers events with high triglycerides on statin."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m10.pregnancy.sum",
+      "topic": "cardio.m10.pregnancy",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 10 (c); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Pregnancy and heart disease — key points"
+      },
+      "points": [
+        {
+          "en": "mWHO IV (avoid pregnancy): PAH, LVEF under 30%, severe symptomatic AS."
+        },
+        {
+          "en": "ACEi, ARB and ARNI are contraindicated in pregnancy."
+        },
+        {
+          "en": "Warfarin embryopathy risk is higher above 5 mg/day in first trimester."
+        },
+        {
+          "en": "Peripartum cardiomyopathy: HF late pregnancy or postpartum, LVEF under 45%."
+        },
+        {
+          "en": "Bromocriptine may be considered in peripartum cardiomyopathy."
+        }
+      ]
+    },
+    {
+      "id": "cardio.m10.pulmonary-embolism.sum",
+      "topic": "cardio.m10.pulmonary-embolism",
+      "type": "summary",
+      "difficulty": 3,
+      "source": "Kerala PSC detailed syllabus, Assistant Professor (Cardiology), Module 10 (d); Standard reference: Braunwald's Heart Disease 12th ed. (chapter/page not yet verified)",
+      "status": "needs_review",
+      "title": {
+        "en": "Pulmonary embolism — key points"
+      },
+      "points": [
+        {
+          "en": "Use Wells or Geneva score; D-dimer to exclude non-high probability."
+        },
+        {
+          "en": "CT pulmonary angiography is the first-line imaging test."
+        },
+        {
+          "en": "High-risk (shock) PE: systemic thrombolysis."
+        },
+        {
+          "en": "DOACs are first-line anticoagulants, for at least 3 months."
+        },
+        {
+          "en": "Stratify normotensive patients with sPESI, RV function and troponin."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q.practice.1",
+      "topic": "cardio.m01.anatomy-physiology",
+      "kind": "mcq",
+      "q": {
+        "en": "Coronary dominance is determined by the artery that gives rise to the:"
+      },
+      "options": [
+        {
+          "en": "Posterior descending artery"
+        },
+        {
+          "en": "SA nodal artery"
+        },
+        {
+          "en": "Obtuse marginal artery"
+        },
+        {
+          "en": "Conus artery"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Dominance is defined by the origin of the PDA."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.anatomy-physiology.f01"
+      ]
+    },
+    {
+      "id": "q.practice.2",
+      "topic": "cardio.m01.anatomy-physiology",
+      "kind": "mcq",
+      "q": {
+        "en": "Free-wall rupture after myocardial infarction is most likely at:"
+      },
+      "options": [
+        {
+          "en": "First 6 hours"
+        },
+        {
+          "en": "3–7 days"
+        },
+        {
+          "en": "3–4 weeks"
+        },
+        {
+          "en": "3 months"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Necrotic muscle is cleared before scar forms, so the wall is weakest at 3–7 days."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.anatomy-physiology.f07"
+      ]
+    },
+    {
+      "id": "q.practice.3",
+      "topic": "cardio.m01.anatomy-physiology",
+      "kind": "mcq",
+      "q": {
+        "en": "Digoxin toxicity is precipitated most by:"
+      },
+      "options": [
+        {
+          "en": "Hyperkalaemia"
+        },
+        {
+          "en": "Hypokalaemia"
+        },
+        {
+          "en": "Hypernatraemia"
+        },
+        {
+          "en": "Hypocalcaemia"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Potassium competes with digoxin at the Na⁺/K⁺-ATPase; low potassium increases binding."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.anatomy-physiology.f06"
+      ]
+    },
+    {
+      "id": "q.practice.4",
+      "topic": "cardio.m01.investigations",
+      "kind": "mcq",
+      "q": {
+        "en": "Fractional flow reserve indicating a haemodynamically significant stenosis is:"
+      },
+      "options": [
+        {
+          "en": "≤0.95"
+        },
+        {
+          "en": "≤0.90"
+        },
+        {
+          "en": "≤0.80"
+        },
+        {
+          "en": "≤0.60"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "FFR ≤0.80 marks a functionally significant lesion."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.investigations.f05"
+      ]
+    },
+    {
+      "id": "q.practice.5",
+      "topic": "cardio.m01.investigations",
+      "kind": "mcq",
+      "q": {
+        "en": "Duke treadmill score for 9 min exercise, 1 mm ST depression and no angina:"
+      },
+      "options": [
+        {
+          "en": "+4"
+        },
+        {
+          "en": "+9"
+        },
+        {
+          "en": "−1"
+        },
+        {
+          "en": "+14"
+        }
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "9 − 5×1 − 4×0 = +4 (intermediate risk)."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.investigations.m01"
+      ]
+    },
+    {
+      "id": "q.practice.6",
+      "topic": "cardio.m01.investigations",
+      "kind": "mcq",
+      "q": {
+        "en": "Hibernating myocardium on PET shows:"
+      },
+      "options": [
+        {
+          "en": "Matched reduction of perfusion and FDG"
+        },
+        {
+          "en": "Perfusion–FDG mismatch"
+        },
+        {
+          "en": "Normal perfusion, absent FDG"
+        },
+        {
+          "en": "Increased perfusion and FDG"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Reduced perfusion with preserved glucose use = viable, hibernating myocardium."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.investigations.f06"
+      ]
+    },
+    {
+      "id": "q.practice.7",
+      "topic": "cardio.m01.genetics",
+      "kind": "mcq",
+      "q": {
+        "en": "Long QT syndrome type 1 is classically triggered by:"
+      },
+      "options": [
+        {
+          "en": "Sleep"
+        },
+        {
+          "en": "Swimming"
+        },
+        {
+          "en": "Loud alarm clock"
+        },
+        {
+          "en": "Hypothermia"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "LQT1 (KCNQ1): exercise, especially swimming."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.genetics.f03"
+      ]
+    },
+    {
+      "id": "q.practice.8",
+      "topic": "cardio.m01.genetics",
+      "kind": "mcq",
+      "q": {
+        "en": "Inclisiran lowers LDL-C by:"
+      },
+      "options": [
+        {
+          "en": "Monoclonal antibody to PCSK9"
+        },
+        {
+          "en": "siRNA silencing of PCSK9 synthesis"
+        },
+        {
+          "en": "Inhibiting NPC1L1"
+        },
+        {
+          "en": "Inhibiting ACL"
+        }
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Inclisiran is an siRNA that stops hepatic PCSK9 production."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.genetics.f05"
+      ]
+    },
+    {
+      "id": "q.practice.9",
+      "topic": "cardio.m01.investigations",
+      "kind": "mcq",
+      "q": {
+        "en": "On a regular ECG the R–R interval is 3 large squares. The heart rate is:"
+      },
+      "options": [
+        {
+          "en": "60/min"
+        },
+        {
+          "en": "75/min"
+        },
+        {
+          "en": "100/min"
+        },
+        {
+          "en": "150/min"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "300 ÷ 3 = 100 beats/min."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.investigations.m02"
+      ]
+    },
+    {
+      "id": "q.practice.10",
+      "topic": "cardio.m01.genetics",
+      "kind": "mcq",
+      "q": {
+        "en": "The commonest gene implicated in familial hypercholesterolaemia is:"
+      },
+      "options": [
+        {
+          "en": "APOB"
+        },
+        {
+          "en": "PCSK9"
+        },
+        {
+          "en": "LDLR"
+        },
+        {
+          "en": "LDLRAP1"
+        }
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "LDLR variants cause most FH."
+      },
+      "source": "Practice — exam pattern (not from a past paper)",
+      "covers": [
+        "cardio.m01.genetics.f02"
+      ]
+    }
+  ]
+}
