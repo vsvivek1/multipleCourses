@@ -1,0 +1,30 @@
+name: Fetch Kerala PSC syllabi
+
+on:
+  push:
+    paths:
+      - "syllabi/**/sources.csv"
+      - "scripts/fetch_syllabi.sh"
+      - ".github/workflows/fetch-syllabi.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - name: Download syllabi
+        run: |
+          for csv in syllabi/*/sources.csv; do scripts/fetch_syllabi.sh "$csv"; done
+      - name: Commit downloaded files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898499+github-actions[bot]@users.noreply.github.com"
+          git add syllabi
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "Add downloaded Kerala PSC syllabus PDFs and extracted text"
+          git push
