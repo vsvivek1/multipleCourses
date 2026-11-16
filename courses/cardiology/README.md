@@ -9,6 +9,7 @@ First Recallio-style course module, built from the official syllabus in
 |---|---|
 | `pack.json` | Recallio content pack (schema 1.0): topics, study cards, practice MCQs |
 | `review.csv` | One row per card for the clinical reviewer (id, topic, type, key text, source, status) |
+| [`../../quiz/cardiology.html`](../../quiz/cardiology.html) | Practice quiz built from this pack's 48 MCQs (see [`quiz/`](../../quiz/README.md)) |
 
 Check the pack with `python3 scripts/validate_pack.py courses/cardiology/pack.json`.
 
@@ -35,7 +36,7 @@ Topic ids are `cardio.mNN.<topic>`; every topic after Module 1 lists Module 1 ba
 - **Topic `freq` = syllabus marks ÷ 10** (5-mark topics 0.5). No past papers yet, so this is a proxy; replace it with a real frequency map once papers are added.
 - **Exam date is a placeholder** (`2027-06-30`, `estimated`). No notification found; update when Kerala PSC announces it.
 - **All cards are `needs_review`.** Facts follow standard references (Braunwald 12th ed., current ESC/ACC guidelines) but page numbers are not verified. A cardiologist should review before publishing.
-- **MCQs are practice items**, not past-paper questions.
+- **MCQs are practice items**, not past-paper questions. Module 1 has 10; Modules 2–10 have 2 per topic (38), each covering that topic's summary card until full cards exist.
 - Module 10 lists five 5-mark items under a 20-mark heading in the official PDF; all five are included.
 
 ## Next steps
